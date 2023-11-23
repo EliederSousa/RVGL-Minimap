@@ -13,7 +13,7 @@ PS: The mod disables the multiplayer menu, so you can't play online sessions wit
 Just extract the zip file inside your RVGL folder. Make sure to also extract the folder minimaps, since all images are there. The mod is composed by 3 files (besides the folder):
   - minimap.asi: The mod itself.
   - version.dll: The ASI loader. This file comes from [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader), by ThirteenAG.
-  - minimap.ini: A configurable file to make the minimap fit your needs. See [Configuration](##Configuration) section.
+  - minimap.ini: A configurable file to make the minimap fit your needs. See [Configuration](#Configuration) section.
 
 ## Supported versions
 Despite one of the goals is make it compatible with many versions of the game, this only works with version 23.0602a1 of RVGL. The game is constantly updated, so don't expect this working in every version forever. I'm focused in Windows x64 system, but Linux and Android support is in the plans... who knows.  
