@@ -24,6 +24,8 @@ This mod disables multiplayer menu, so you can't play online sessions with the m
 If you want the multiplayer menu back again, you can disable it by editing the .ini file, and changing this option to false:  
 ![image](https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/237a6507-c814-45a8-bbd3-e72250c5c369)  
 
+I tried to make a proof of concept to show that a minimap is perfectly possible, even without the right tools. Expect some bugs, lack of transition effects and unfinished things.  
+
 ## Configuration
 The .ini file has some options you can change. Let's enumerate some:  
   ![image](https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/6b14c4e8-e58a-4d08-a2cc-26a9414e8111)  
