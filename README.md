@@ -1,8 +1,8 @@
 # RVGL Minimap
 Configurable ASI mod that adds minimap support to RVGL (Re-Volt) game.  
 
-<img src="https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/939be166-e096-4141-8c1a-b6020079d85f" align="center" height="300" >
-<img src="https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/daa70d57-b042-4292-b63b-a81a90f87ca4" align="center" height="300" >  
+<img src="https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/939be166-e096-4141-8c1a-b6020079d85f" align="center" height="250" >
+<img src="https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/daa70d57-b042-4292-b63b-a81a90f87ca4" align="center" height="250" >  
 
 ## TL;DR
 This mod only works (for now) for windows x64, and the version 23.0602a1 of RVGL.
