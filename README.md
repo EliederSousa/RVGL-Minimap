@@ -52,7 +52,7 @@ The .ini file has some options you can change. Let's enumerate some:
   - [ ] Create minimaps for all original tracks
   - [ ] Create minimaps for most downloaded tracks in [revoltworld.net](https://www.revoltworld.net/)
   - [ ] Minimize bugs
-  - [ ] Implement other types of minimaps (make main player in statically in center)
+  - [ ] Implement other types of minimaps (make main player be in the center, and move the map and other players)
 
   If you have any suggestion, minimap request or need help, feel free to contact here.
   
