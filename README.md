@@ -5,21 +5,23 @@ Configurable ASI mod that adds minimap support to RVGL (Re-Volt) game.
 <img src="https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/daa70d57-b042-4292-b63b-a81a90f87ca4" align="center" height="250" >  
 
 ## TL;DR
-This mod only works (for now) for windows x64, and the version 23.0602a1 of RVGL.
 Make a copy of you RVGL folder, just to make sure everything will be ok. Download the zip file and extract its contents in your RVGL folder (the same within .exe). That's it.  
 PS: The mod disables the multiplayer menu, so you can't play online sessions with it. If you want to get multiplayer menu back, just disable the mod in .ini file or remove the mod from your game folder.
 
 ## How to install
-Just extract the zip file inside your RVGL folder. Make sure to also extract the folder minimaps, since all images are there. The mod is composed by 3 files (besides the folder):
+Just extract the zip file inside your RVGL folder. Make sure to also extract the folder minimaps, since all images are there. The mod is composed by 3 files (besides the folder and the readme):
   - minimap.asi: The mod itself.
   - version.dll: The ASI loader. This file comes from [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader), by ThirteenAG.
   - minimap.ini: A configurable file to make the minimap fit your needs. See [Configuration](#Configuration) section.
 
 ## Supported versions
-Despite one of the goals is make it compatible with many versions of the game, this only works with version 23.0602a1 of RVGL. The game is constantly updated, so don't expect this working in every version forever. I'm focused in Windows x64 system, but Linux and Android support is in the plans... who knows.  
+I tried to make it work with the latest versions of RVGL. Known versions supported:  
+23.0602a1  
+23.1030a1  
+The game is constantly updated, so don't expect this working in every version forever. I'm focused in Windows x64 system, but Linux and Android support is in the plans... who knows.  
 
 ## A note from the author
-This mod disables multiplayer menu, so you can't play online sessions with the minimap enabled. Having a minimap in that context could make some players have a slightly advantage over others, degrading multiplayer experience. I don't want to do that.  
+This mod disables multiplayer menu, so you can't play online sessions with the minimap enabled. Having a minimap in that context could make some players have a slightly advantage over others, degrading multiplayer experience. I don't want this to happen. 
 
 If you want the multiplayer menu back again, you can disable it by editing the .ini file, and changing this option to false:  
 ![image](https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/237a6507-c814-45a8-bbd3-e72250c5c369)  
@@ -58,9 +60,15 @@ The .ini file has some options you can change. Let's enumerate some:
   
   
 ## Backlog
-22/11/2023, v0.1:
-Initial release. 
-  
+
+28/11/2023, v0.2.0:
+Improvements:
+- Support to the latest versions of RGVL (tested in 23.1030a1).
+- Now players are coloured circles with black outline to give contrast in some bright tracks.
+- Console output changed.
+
+22/11/2023, v0.1.0:
+Initial release.  
   
 ## Thanks
 This project uses images created by Paperman. All credits to him.  
