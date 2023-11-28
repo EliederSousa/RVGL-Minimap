@@ -62,12 +62,12 @@ The .ini file has some options you can change. Let's enumerate some:
 ## Backlog
 
 28/11/2023, v0.2.0:
-Improvements:
+Improvements:    
 - Support to the latest versions of RGVL (tested in 23.1030a1).
 - Now players are coloured circles with black outline to give contrast in some bright tracks.
 - Console output changed.
 
-22/11/2023, v0.1.0:
+22/11/2023, v0.1.0:  
 Initial release.  
   
 ## Thanks
