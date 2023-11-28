@@ -60,11 +60,11 @@ The .ini file has some options you can change. Let's enumerate some:
 
 ## Known bugs
   - Minimap doesn't unload properly at end of a race;
-  - Minimap is drawn over pause menu.
+  - Minimap is drawn above the pause menu.
   
 ## Backlog
 
-28/11/2023, v0.2.0:
+28/11/2023, v0.2.0:  
 Improvements:    
 - Support to the latest versions of RGVL (tested in 23.1030a1).
 - Now players are coloured circles with black outline to give contrast in some bright tracks.
