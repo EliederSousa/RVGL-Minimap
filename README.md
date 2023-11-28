@@ -57,7 +57,10 @@ The .ini file has some options you can change. Let's enumerate some:
   - [ ] Implement other types of minimaps (make main player be in the center, and move the map and other players)
 
   If you have any suggestion, minimap request or need help, feel free to contact here.
-  
+
+## Known bugs
+  - Minimap doesn't unload properly at end of a race;
+  - Minimap is drawn over pause menu.
   
 ## Backlog
 
