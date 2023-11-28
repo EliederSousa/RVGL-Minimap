@@ -5,11 +5,11 @@ Configurable ASI mod that adds minimap support to RVGL (Re-Volt) game.
 <img src="https://github.com/EliederSousa/RVGL-Minimap/assets/16262291/daa70d57-b042-4292-b63b-a81a90f87ca4" align="center" height="250" >  
 
 ## TL;DR
-Make a copy of you RVGL folder, just to make sure everything will be ok. Download the zip file and extract its contents in your RVGL folder (the same within .exe). That's it.  
+Make a copy of you RVGL folder, just to make sure everything will be ok. Download the zip file from [latest release](https://github.com/EliederSousa/RVGL-Minimap/releases/tag/latest) and extract its contents in your RVGL folder (the same within .exe). That's it.  
 PS: The mod disables the multiplayer menu, so you can't play online sessions with it. If you want to get multiplayer menu back, just disable the mod in .ini file or remove the mod from your game folder.
 
 ## How to install
-Just extract the zip file inside your RVGL folder. Make sure to also extract the folder minimaps, since all images are there. The mod is composed by 3 files (besides the folder and the readme):
+First, download the [latest release](https://github.com/EliederSousa/RVGL-Minimap/releases/tag/latest) of zip file. Just extract the zip file inside your RVGL folder. Make sure to also extract the folder minimaps, since all images are there. The mod is composed by 3 files (besides the folder and the readme):
   - minimap.asi: The mod itself.
   - version.dll: The ASI loader. This file comes from [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader), by ThirteenAG.
   - minimap.ini: A configurable file to make the minimap fit your needs. See [Configuration](#Configuration) section.
