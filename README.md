@@ -65,13 +65,20 @@ The .ini file has some options you can change. Let's enumerate some:
   
 ## Backlog
 
-28/11/2023, v0.2.0:  
+30/11/2023, v0.2.1  
+Tracks added:
+- Museum 1;
+- Museum 2;
+- Supermarket 2 (there are so many objects in the track, need some work yet);
+- Toys in the Hood 2.
+
+28/11/2023, v0.2.0  
 Improvements:    
 - Support to the latest versions of RGVL (tested in 23.1030a1).
 - Now players are coloured circles with black outline to give contrast in some bright tracks.
 - Console output changed.
 
-22/11/2023, v0.1.0:  
+22/11/2023, v0.1.0  
 Initial release.  
   
 ## Thanks
