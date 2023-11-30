@@ -67,10 +67,10 @@ The .ini file has some options you can change. Let's enumerate some:
 
 30/11/2023, v0.2.1  
 Tracks added:
-- Museum 1;
-- Museum 2;
-- Supermarket 2 (there are so many objects in the track, need some work yet);
-- Toys in the Hood 2.
+- Museum 1 (many objects here, need some refinement);
+- Museum 2 (I don't liked the result, but I prefer this than nothing);
+- Supermarket 1 (many objects in the track, need some work yet);
+- Toys in the Hood 2
 
 28/11/2023, v0.2.0  
 Improvements:    
